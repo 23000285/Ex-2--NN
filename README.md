@@ -1,6 +1,6 @@
 <H3>Name: VENKATANATHAN P R</H3>
 <H3>Register no: 212223240173</H3>
-<H3>Date: 28-04-2025</H3>
+<H3>Date: 05-04-2025</H3>
 <H3>Experiment No. 2 </H3>
 
 ## Implementation of Perceptron for Binary Classification
